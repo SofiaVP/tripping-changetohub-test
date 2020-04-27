@@ -73,11 +73,11 @@ Dans la section commentaires de cet application, plusieurs suggestions d'amélio
 Je ne connaissait pas cette application avant. 
 Heureusement nous ne sommes pas évalué sur l'originalité de notre thème. Je vais me familiariser avec cette application et noter mes propres commentaires: 
 
-* Likes 👍
+Likes 👍
 	-
 	-
 	- 
-* Dislikes 👎
+Dislikes 👎
 	- Listes trop longues
 	-
 	-
