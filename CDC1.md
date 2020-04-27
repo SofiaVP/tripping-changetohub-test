@@ -4,7 +4,7 @@
 1. Fondements du projet 
 -----------------------
 * But du projet 
-...Ce projet est dévéloppé dans le cadre de ma formation d'Architechte logiciel. 
+... Ce projet est dévéloppé dans le cadre de ma formation d'Architechte logiciel. 
 
 ...Le thème étant libre, j'ai choisi de dévélopper le projet **Tripping** : une application permettant à l'utilisateur de générer une liste personalisée d'items à prendre avec soit pendant un voyage. 
 
