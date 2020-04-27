@@ -10,9 +10,9 @@ Le thème étant libre, j'ai choisi de dévélopper le projet *Tripping* : une a
 
 ##### Personnes et organismes impliqués dans les enjeux du projet
 
-* Maître d’ouvrage* : Isika (????)
+* *Maître d’ouvrage* : Isika (????)
 
-* Equipe de dévéloppeurs* : Sofia Vayas Pedersen (moi)
+* *Equipe de dévéloppeurs* : Sofia Vayas Pedersen (moi)
 
 ##### Utilisateurs du produit
 
@@ -37,22 +37,22 @@ Il nous est demandé de donner accès:
 * une base de données MongoDB pour stocker les informations « data » (data scraping)
 * une partie server-side en NodeJS qui devra récolter des données sur une source externe, les traiter et les insérer dans la base de données MongoDB
 
-Le projet complet devra être hébergés dans le Cloud Amazon (AWS). 
-Le code doit être disponible sur internet et devra donc pourvoir être consultable via une URL. Il devra être hébergé par sur un gestionnaire de source Git.
+Le projet complet devra être hébergés dans le **_Cloud Amazon (AWS)_**. 
+Le code doit être disponible sur internet et devra donc pourvoir être consultable via une **_URL_**. Il devra être hébergé par sur un gestionnaire de source **_Git_**.
 
-Il faudra mettre en place un ou plusieurs pipelines de livraison de votre code, depuis votre environnement de développement local jusqu’à la production (sur Amazon AWS).
+Il faudra mettre en place un ou plusieurs **_pipelines de livraison_** de votre code, depuis votre environnement de développement local jusqu’à la production (sur Amazon AWS).
 
-En plus de l’intégration continue, le projet devra respecter les règles principales de qualimétrie (test et clean code).
+En plus de **_l’intégration continue_**, le projet devra respecter les règles principales de **_qualimétrie_** (test et clean code).
 
 ##### Applications « partenaires » (avec lesquelles le produit doit collaborer)
 
 [Weather API](https://openweathermap.org/api)
 
-[Nomade list](https://nomadlist.com/)
+[NomadeList](https://nomadlist.com/)
 
 ##### De combien de temps les développeurs disposent-ils pour le projet ?
 
-* *Phase de dévéloppent* : 
+* *Phase de dévéloppement* :
 du vendredi 12 juin au mercredi 22 juillet (6 semaines environ)
 
 * *Présentation orale devant un jury* : 
@@ -73,11 +73,11 @@ Dans la section commentaires de cet application, plusieurs suggestions d'amélio
 Je ne connaissait pas cette application avant. 
 Heureusement nous ne sommes pas évalué sur l'originalité de notre thème. Je vais me familiariser avec cette application et noter mes propres commentaires: 
 
-* likes 👍
+* Likes 👍
 	-
 	-
 	- 
-* dislikes 👎
+* Dislikes 👎
 	- Listes trop longues
 	-
 	-
@@ -86,9 +86,11 @@ Heureusement nous ne sommes pas évalué sur l'originalité de notre thème. Je 
 
 ##### Exigences fonctionelles 
 
-* Auto-générer une liste per
+* Auto-générer une liste personalisée pour un voyage donné. 
 
 ##### Cas d'utilisation
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ## 4. Exigences non-fonctionelles
