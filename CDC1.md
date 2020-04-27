@@ -1,5 +1,4 @@
 # Cahier des charges - Projet Tripping 
-=====
 
 ## 1. Fondements du projet 
 
