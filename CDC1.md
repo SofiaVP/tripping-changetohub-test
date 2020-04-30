@@ -73,15 +73,15 @@ Dans la section commentaires de cet application, plusieurs suggestions d'amélio
 Je ne connaissait pas cette application avant. 
 Heureusement nous ne sommes pas évalué sur l'originalité de notre thème. Je vais me familiariser avec cette application et noter mes propres commentaires: 
 
-Likes 👍
-	-
-	-
-	- 
-Dislikes 👎
-	- Listes trop longues
-	-
-	-
-	-
+Likes 👍 
+
+*
+*
+
+Dislikes 👎 
+
+* Listes trop longues
+*
 
 
 ##### Exigences fonctionelles 
