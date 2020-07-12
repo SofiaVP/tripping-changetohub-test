@@ -1,2 +1,1 @@
-hey
-hey 2
+Hello man 2
